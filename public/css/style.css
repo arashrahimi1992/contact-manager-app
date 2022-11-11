@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'IRANSans';
+    src: url('../fonts/IRANSans.eot');
+    src:
+        url('../fonts/IRANSans.woff') format('woff'),
+        url('../fonts/IRANSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body * {
+    
+    font-family: IRANSans;
+}
+.pagination .page-num{
+
+    padding: 8px 15px;
+    cursor: pointer;
+    
+    border-radius: 3px;
+    font-weight: 400;
+    text-decoration: none;
+ }
+ .pagination .page-num:hover{
+   background-color: aqua;
+ }

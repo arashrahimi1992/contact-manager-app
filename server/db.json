@@ -1,0 +1,14 @@
+{
+  "login": [
+    {
+      "firstName": "arash",
+      "lastName": "rahimi",
+      "password": "5050033020",
+      "mobile": "091439290204",
+      "email": "arash_rahimi@yahoo.com",
+      "age": "30",
+      "job": "برنامه نویس",
+      "id": 1
+    }
+  ]
+}
